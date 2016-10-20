@@ -1,0 +1,27 @@
+{
+    "name": "CreateJS-Game",
+    "version": "1.0.0",
+    "authors": [
+        "dekevron@gmail.com"
+    ],
+    "description": "Fiddling around with game creation using CreateJS.",
+    "moduleType": [
+        "globals"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "latest",
+        "EaselJS": "latest",
+        "TweenJS": "latest",
+        "SoundJS": "latest",
+        "PreloadJS": "latest"
+    }
+}
